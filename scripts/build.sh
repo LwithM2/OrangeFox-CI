@@ -63,7 +63,7 @@ export LC_ALL="C"
 
 # Default Build Type
 if [ -z "$FOX_BUILD_TYPE" ]; then
-    export FOX_BUILD_TYPE="Unofficial-LwithM"
+    export FOX_BUILD_TYPE="Unofficial-Lanmiemie"
 fi
 
 # Default Maintainer's Name
